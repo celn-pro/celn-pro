@@ -9,6 +9,10 @@ I'm a full stack developer with experience building modern web and blockchain ap
 
 Below are some of the key projects I have worked on recently:
 
+- [AI customizable shirt](https://github.com/celn-pro/full-project-threejs-ai) - customizable shirt using threejs, framer motion, reactjs, mongoDB, tailwind  and the openAI API.
+
+- [AI generated gallery website](https://github.com/celn-pro/dall-e) - AI generated images using react, tailwind, framer motion, mongoose, nodejs and the openAI API.
+
 - [NFT Marketplace](https://github.com/yourusername/nft-marketplace) - An Ethereum blockchain NFT marketplace built with Solidity, Hardhat, React and TailwindCSS. [Live Demo](https://yournftmarket.com)
 
 - [DeFi Staking App](https://github.com/yourusername/defi-staking-app) - A decentralized finance app with staking rewards, built using Ethereum, Solidity, TypeScript and React. [Live App](https://yourdefiapp.io)
