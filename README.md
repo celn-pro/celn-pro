@@ -5,18 +5,21 @@
 
 I'm a full stack developer with experience building modern web and blockchain applications. Currently exploring the world of Web3!
 
-<img src="https://github.com/celn-pro/celn-pro/blob/552e2d4adcfd70a941be520c9f8da86dfdb5fa70/images.jpeg " alt="nft marketplace" width="45%"> <img src="https://github.com/celn-pro/celn-pro/blob/1cdd551c8b3419ed4c298d21a7120d1a5b3d5ad3/dall_e.jpeg" alt="defi app" width="45%">
-
+<img src="https://github.com/celn-pro/celn-pro/blob/552e2d4adcfd70a941be520c9f8da86dfdb5fa70/images.jpeg " alt="nft marketplace" width="45%">
 Below are some of the key projects I have worked on recently:
 
 - [AI customizable shirt](https://github.com/celn-pro/full-project-threejs-ai) - customizable shirt using threejs, framer motion, reactjs, mongoDB, tailwind  and the openAI API.
 
 - [AI generated gallery website](https://github.com/celn-pro/dall-e) - AI generated images using react, tailwind, framer motion, mongoose, nodejs and the openAI API.
 
+-  <img src="https://github.com/celn-pro/celn-pro/blob/1cdd551c8b3419ed4c298d21a7120d1a5b3d5ad3/dall_e.jpeg" alt="defi app" width="45%">
+
+
 - [NFT Marketplace](https://github.com/celn-pro/hardhat-nft-fcc) - An Ethereum blockchain NFT marketplace built with Solidity, Hardhat, React and TailwindCSS.
 <!-- [Live Demo](https://yournftmarket.com)-->
 
-- [DeFi Staking App](https://github.com/yourusername/defi-staking-app) - A decentralized finance app with staking rewards, built using Ethereum, Solidity, TypeScript and React. [Live App](https://yourdefiapp.io)
+- [DeFi Staking App](https://github.com/yourusername/defi-staking-app) - A decentralized finance app with staking rewards, built using Ethereum, Solidity, TypeScript and React.
+<!-- [Live App](https://yourdefiapp.io)-->
 
 - [Crypto Trading Bot](https://github.com/yourusername/crypto-trading-bot) - Automated cryptocurrency trading bot using Python, NumPy, Pandas and the Binance API.
 
