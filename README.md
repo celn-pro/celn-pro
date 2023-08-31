@@ -5,7 +5,7 @@
 
 I'm a full stack developer with experience building modern web and blockchain applications. Currently exploring the world of Web3!
 
-<img src="" alt="nft marketplace" width="45%"> <img src="https://user-images.githubusercontent.com/68734477/219903501-bdc93d09-97c5-4e63-89c5-f0a627f06843.png" alt="defi app" width="45%">
+<img src="https://github.com/celn-pro/celn-pro/blob/552e2d4adcfd70a941be520c9f8da86dfdb5fa70/images.jpeg " alt="nft marketplace" width="45%"> <img src="https://github.com/celn-pro/celn-pro/blob/1cdd551c8b3419ed4c298d21a7120d1a5b3d5ad3/dall_e.jpeg" alt="defi app" width="45%">
 
 Below are some of the key projects I have worked on recently:
 
