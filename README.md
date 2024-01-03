@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68734477/219902492-98d9c2ba-b349-4d15-b5d1-d2571d9f84f4.png" alt="banner" width="100%">
+<img src="https://github.com/celn-pro/celn-pro/blob/c1d528d526e5125808d0f0b237b9f747c94cbd26/banner.png" alt="banner" width="100%">
 
 # Hi there 👋 I'm Ayubu Joseph
 ## Full Stack Developer | Blockchain Enthusiast
@@ -37,7 +37,7 @@ Below are some of the key projects I have worked on recently:
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> 
 
 **Frontend**
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jav ascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 
 **Backend**
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> 
