@@ -1,4 +1,4 @@
-<img src="https://github.com/celn-pro/celn-pro/blob/c1d528d526e5125808d0f0b237b9f747c94cbd26/banner.png" alt="banner" width="100%">
+<img src="https://github.com/celn-pro/celn-pro/blob/3f9a7f306beb1a27bb2f26cb67f8baf0d26ed718/banner2.jpg" alt="banner" width="100%">
 
 # Hi there 👋 I'm Ayubu Joseph
 ## Full Stack Developer | Blockchain Enthusiast
